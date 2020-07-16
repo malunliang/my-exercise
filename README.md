@@ -1,2 +1,0 @@
-# my-exercise
-some examples
